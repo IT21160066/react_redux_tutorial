@@ -1,5 +1,11 @@
+import Counter from "./fetaures/counter/Counter";
+
 function App() {
-  return <div className="App"></div>;
+  return (
+    <main className="App">
+      <Counter />
+    </main>
+  );
 }
 
 export default App;
