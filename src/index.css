@@ -9,6 +9,7 @@ body {
   font-size: 5rem;
   display: grid;
   place-content: center;
+  background-color: rgba(105, 29, 105, 0.719);
 }
 
 input,
